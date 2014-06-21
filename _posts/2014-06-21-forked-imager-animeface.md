@@ -2,7 +2,7 @@
 layout: post
 title: Forked Imager::AnimeFace
 categories: anime
-tags:
+tags: anime, face detection
 ---
 
 [Repository](https://github.com/projectgalateia/animeface)
