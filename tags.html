@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 文章标签
+title: Tags
 ---
 
 <div class="page-tags" id="page-tagcloud">
@@ -15,7 +15,7 @@ title: 文章标签
         <ul>
         {% for post in tag[1] %}
             <li>
-                <span>{{ post.date | date:"%Y年%m月%d日" }} </span>
+                <span>{{ post.date | date:"%Y-%m-%d" }} </span>
                 <a href="{{ post.url }}">{{post.title}} </a>
             </li>
         {% endfor %}
