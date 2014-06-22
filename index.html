@@ -41,7 +41,7 @@ title: Homepage
 
 <div class="page-pagination">
     <ul class="pagination">
-        <li><span>Navigation:</span></li>
+        <li><span>Nav:</span></li>
     {% assign page_begin = paginator.page | minus: 5 %}
     {% assign page_end = paginator.page | plus: 5 %}
     {% if page_begin < 1 %}
@@ -87,7 +87,7 @@ title: Homepage
     {% else %}
         <li><a href="/page{{paginator.total_pages}}">Last</a></li>
     {% endif %}
-        <li><span>Total {{ paginator.total_posts }} Pages</span></li>
+        <li><span>{{ paginator.total_posts }} Pages</span></li>
     </ul>
 </div>
 
