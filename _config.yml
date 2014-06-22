@@ -5,4 +5,6 @@ pygments: false
 paginate: 5
 
 title: Project Galateia
+description: Research on Cognitive Machines
+url: https://projectgalateia.github.io
 
