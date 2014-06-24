@@ -7,5 +7,5 @@ tags: mnist
 
 [Here](https://github.com/projectgalateia/mnist) is a single-header portable MNIST dataset loader written C.
 
-Let's just make the life more easier.
+Let's just make the life a bit more easier.
 
