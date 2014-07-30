@@ -7,3 +7,5 @@ tags: anime face-detection autoencoder deep-learning
 
 ![](/static/img/autoencoder.png)
 
+Using CUDA, feature extracting on the images.
+
