@@ -9,7 +9,8 @@ tags: anime face-detection autoencoder deep-learning
 
 Using CUDA, feature extracting on the images.
 
-[Source on GitHub](https://github.com/projectgalateia/ml-study-autoencoder-animeface)
+[Source on GitHub](https://github.com/projectgalateia/ml-study-autoencoder-animeface).
+Applied normal backpropagation algorithm(stochastic gradient).
 
 Keep on studying for more precise knowledges
 
