@@ -5,5 +5,5 @@ categories: anime deep-learning
 tags: anime face-detection autoencoder deep-learning
 ---
 
-![](/img/autoencoder.png)
+![](/static/img/autoencoder.png)
 
